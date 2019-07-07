@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+        <LinearLayout
+            android:id="@+id/atas"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="20dp">
+                <Spinner
+                    android:id="@+id/SpinText"
+                    android:entries="@array/MallText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    ></Spinner>
+                <EditText
+                    android:id="@+id/Ed1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="masukan Text"/>
+
+                <EditText
+                    android:id="@+id/Ed2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="masukan Text"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/tengah1"
+            android:layout_below="@+id/atas"
+            android:orientation="horizontal"
+            android:weightSum="2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="20dp">
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="masukan text"/>
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="masukan text"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_below="@+id/tengah1"
+            android:id="@+id/tengah2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+                <view
+                    android:layout_width="match_parent"
+                    android:layout_height="2dp"
+                    android:background="#dddd"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/tengah11"
+            android:layout_below="@+id/tengah2"
+            android:orientation="horizontal"
+            android:weightSum="2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="20dp">
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="masukan text"/>
+
+                <Button
+                    android:layout_weight="1"
+                    android:id="@+id/BtnPlus"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/mybutton"
+                    android:textColor="#fff"
+                    android:text="+"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/tengah12"
+            android:layout_below="@+id/tengah11"
+            android:orientation="horizontal"
+            android:weightSum="2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="20dp">
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="masukan text"/>
+
+                <Button
+                    android:layout_weight="1"
+                    android:id="@+id/BtnMin"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/mybutton"
+                    android:textColor="#fff"
+                    android:text="-"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_below="@+id/tengah12"
+            android:id="@+id/bawah"
+            android:layout_width="match_parent"
+            android:gravity="center"
+            android:layout_height="wrap_content">
+        <Button
+
+        android:id="@+id/BtnSubmit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/mybutton"
+            android:textColor="#fff"
+        android:text="SUBMIT"/>
+        </LinearLayout>
+
+
+
+</RelativeLayout>

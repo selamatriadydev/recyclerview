@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HasilActivity">
+
+    <LinearLayout
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:paddingTop="5dp"
+            android:id="@+id/Btn1"
+            android:paddingLeft="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:background="@drawable/mybutton"
+            android:textColor="#fff"
+            android:text="Daily"/>
+
+        <Button
+            android:layout_marginTop="20dp"
+            android:paddingTop="5dp"
+            android:id="@+id/Btn2"
+            android:paddingLeft="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:background="@drawable/mybutton"
+            android:textColor="#fff"
+            android:text="Weekly"/>
+
+        <Button
+            android:layout_marginTop="20dp"
+            android:paddingTop="5dp"
+            android:background="@drawable/mybutton"
+            android:textColor="#fff"
+            android:id="@+id/Btn3"
+            android:paddingLeft="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:text="Monthly"/>
+
+        <Button
+            android:layout_marginTop="20dp"
+            android:paddingTop="5dp"
+            android:background="@drawable/mybutton"
+            android:textColor="#fff"
+            android:id="@+id/Btn4"
+            android:paddingLeft="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:text="Yearly"/>
+
+    </LinearLayout>
+
+
+
+</RelativeLayout>

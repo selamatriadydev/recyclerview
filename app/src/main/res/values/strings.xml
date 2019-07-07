@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+
+    <string-array name="MallText">
+        <item>Mall Puri Indah</item>
+    </string-array>
+</resources>
+
+

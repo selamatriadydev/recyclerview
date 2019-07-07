@@ -1,0 +1,162 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/gascoding/.gradle/caches/transforms-2/files-2.1/8490aa2ca08d28b3aec32edea9c21289/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/gascoding/.gradle/caches/transforms-2/files-2.1/801b046a712b8b60db099c3e27823394/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/6cfe73d2a559d55d0f2bcaa98210921e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/903d954a1f64dd403fa31dcfdf71e91b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/cbca1f7e0726733746e7b9c80c0d1995/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/4d6eb6afe6dfa762e5294807b15e28b2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/gascoding/.gradle/caches/transforms-2/files-2.1/e6d75b3e4a516f40f8beb968f75b382a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/6c983e847303c103373df3fb8b648916/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/02e7183cd4dfb2e3a96077cb44a4fe16/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/ae02ea58781d723045edc51fb7063f03/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/b30ff1e20cbfdbca69d5ea386f7df66b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/05c878b5e24e23e4c00aed0593332a30/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/3023d3df31446bc741bba1dca651c8cf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/f83ac1c37e28d1d37394229f9f7c0841/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/a33de05b7ed36fb1d006244a96e2e057/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/gascoding/.gradle/caches/transforms-2/files-2.1/009cac6eccbc960d89d212697d401150/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/463b7b57622d18c2c88ed33786b48f83/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/a78e9389d3fef5edd9226196fc375886/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/9e48b869406017e83226f7824dc6ae66/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/36e444ad2de799d8a580bc3db6743460/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/68c89b23e383191e74bb2c60ed52c23a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/10759328e8596532044ed1a92536d854/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/66e89001210b10181d0cea5c52db5da0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/52f25baa6bacb4f6869bd050454f6eb9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/c0ae1304f0910dc32a511b7449b8e1ac/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/f1ac46edd850a5126ff1d4e11c357eb6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/fc80e2ce0658bcd6b7304f454fe80fb2/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml
+		INJECTED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml
+		ADDED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml
+		ADDED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/gascoding/.gradle/caches/transforms-2/files-2.1/801b046a712b8b60db099c3e27823394/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/gascoding/.gradle/caches/transforms-2/files-2.1/801b046a712b8b60db099c3e27823394/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] /home/gascoding/.gradle/caches/transforms-2/files-2.1/009cac6eccbc960d89d212697d401150/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/gascoding/.gradle/caches/transforms-2/files-2.1/009cac6eccbc960d89d212697d401150/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/463b7b57622d18c2c88ed33786b48f83/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/463b7b57622d18c2c88ed33786b48f83/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/gascoding/.gradle/caches/transforms-2/files-2.1/009cac6eccbc960d89d212697d401150/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.recyclerview.DetailActivity
+ADDED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:12:9-61
+	android:name
+		ADDED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:12:19-49
+activity#com.example.recyclerview.HasilActivity
+ADDED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:13:9-51
+	android:name
+		ADDED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:13:19-48
+activity#com.example.recyclerview.MainActivity
+ADDED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml
+INJECTED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/gascoding/.gradle/caches/transforms-2/files-2.1/8490aa2ca08d28b3aec32edea9c21289/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/gascoding/.gradle/caches/transforms-2/files-2.1/8490aa2ca08d28b3aec32edea9c21289/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/gascoding/.gradle/caches/transforms-2/files-2.1/801b046a712b8b60db099c3e27823394/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/gascoding/.gradle/caches/transforms-2/files-2.1/801b046a712b8b60db099c3e27823394/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/6cfe73d2a559d55d0f2bcaa98210921e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/6cfe73d2a559d55d0f2bcaa98210921e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/903d954a1f64dd403fa31dcfdf71e91b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/903d954a1f64dd403fa31dcfdf71e91b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/cbca1f7e0726733746e7b9c80c0d1995/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/cbca1f7e0726733746e7b9c80c0d1995/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/4d6eb6afe6dfa762e5294807b15e28b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/4d6eb6afe6dfa762e5294807b15e28b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/gascoding/.gradle/caches/transforms-2/files-2.1/e6d75b3e4a516f40f8beb968f75b382a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/gascoding/.gradle/caches/transforms-2/files-2.1/e6d75b3e4a516f40f8beb968f75b382a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/6c983e847303c103373df3fb8b648916/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/6c983e847303c103373df3fb8b648916/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/02e7183cd4dfb2e3a96077cb44a4fe16/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/02e7183cd4dfb2e3a96077cb44a4fe16/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/ae02ea58781d723045edc51fb7063f03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/ae02ea58781d723045edc51fb7063f03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/b30ff1e20cbfdbca69d5ea386f7df66b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/b30ff1e20cbfdbca69d5ea386f7df66b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/05c878b5e24e23e4c00aed0593332a30/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/05c878b5e24e23e4c00aed0593332a30/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/3023d3df31446bc741bba1dca651c8cf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/3023d3df31446bc741bba1dca651c8cf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/f83ac1c37e28d1d37394229f9f7c0841/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/f83ac1c37e28d1d37394229f9f7c0841/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/a33de05b7ed36fb1d006244a96e2e057/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/a33de05b7ed36fb1d006244a96e2e057/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/gascoding/.gradle/caches/transforms-2/files-2.1/009cac6eccbc960d89d212697d401150/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/gascoding/.gradle/caches/transforms-2/files-2.1/009cac6eccbc960d89d212697d401150/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/463b7b57622d18c2c88ed33786b48f83/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/463b7b57622d18c2c88ed33786b48f83/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/a78e9389d3fef5edd9226196fc375886/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/a78e9389d3fef5edd9226196fc375886/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/9e48b869406017e83226f7824dc6ae66/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/9e48b869406017e83226f7824dc6ae66/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/36e444ad2de799d8a580bc3db6743460/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/36e444ad2de799d8a580bc3db6743460/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/68c89b23e383191e74bb2c60ed52c23a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/68c89b23e383191e74bb2c60ed52c23a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/10759328e8596532044ed1a92536d854/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/10759328e8596532044ed1a92536d854/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/66e89001210b10181d0cea5c52db5da0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/66e89001210b10181d0cea5c52db5da0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/52f25baa6bacb4f6869bd050454f6eb9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/52f25baa6bacb4f6869bd050454f6eb9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/c0ae1304f0910dc32a511b7449b8e1ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/c0ae1304f0910dc32a511b7449b8e1ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/f1ac46edd850a5126ff1d4e11c357eb6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/f1ac46edd850a5126ff1d4e11c357eb6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/fc80e2ce0658bcd6b7304f454fe80fb2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/gascoding/.gradle/caches/transforms-2/files-2.1/fc80e2ce0658bcd6b7304f454fe80fb2/AndroidManifest.xml:20:5-44
+INJECTED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml
+INJECTED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml
+		ADDED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml
+		INJECTED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml
+		ADDED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml
+		INJECTED from /home/gascoding/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml
